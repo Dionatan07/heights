@@ -24,6 +24,6 @@ bem como os nomes dessas pessoas caso houver.
 - [x] Uso do método setDefault();
 - [x] Lógica da programação;
 
-------------
+-------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
